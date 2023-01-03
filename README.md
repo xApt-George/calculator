@@ -1,3 +1,3 @@
 # calculator
 
-Written in GO for learning packages
+Module package: Written in GO for learning packages
